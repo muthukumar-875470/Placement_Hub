@@ -1,0 +1,182 @@
+{
+  "studentsdatabase": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe",
+      "mobilenumber": "9876543210",
+      "alternativenumber": "8765432109",
+      "dateofbirth": "2000-05-15",
+      "email": "johndoe@example.com",
+      "gender": "Male",
+      "github": "https://github.com/johndoe",
+      "collegename": "ABC University",
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "degree": "B.Tech",
+      "course": "Computer Science and Engineering",
+      "cgpa": "8.5",
+      "address": "123 Main Street, City, Country",
+      "skills": [
+        "Java",
+        "Python",
+        "C++"
+      ],
+      "interest": "Machine Learning",
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "resume": "resume_johndoe.pdf"
+    },
+    {
+      "id": "e451"
+    },
+    {
+      "id": "194a"
+    },
+    {
+      "id": "f166"
+    },
+    {
+      "id": "7be1",
+      "firstname": "",
+      "lastname": "",
+      "mobilenumber": "",
+      "alternativenumber": "",
+      "dateofbirth": "",
+      "email": "",
+      "gender": "",
+      "github": "",
+      "collegename": "",
+      "linkedin": "",
+      "degree": "",
+      "course": "",
+      "cgpa": "",
+      "address": "",
+      "skills": [],
+      "interest": "",
+      "language": [],
+      "resume": ""
+    },
+    {
+      "id": "db2e",
+      "firstname": "Manoj",
+      "lastname": "Prabhakaran",
+      "mobilenumber": "657657",
+      "alternativenumber": "35476584",
+      "dateofbirth": "2025-02-12",
+      "email": "manojprabhakaran524@gmail.com",
+      "gender": "Male",
+      "github": "its_manoj2003",
+      "collegename": "P.S.R Engineering College",
+      "linkedin": "Manoj_2003",
+      "degree": "B.E",
+      "course": "Computer Science and Engineering",
+      "cgpa": "6",
+      "address": "jgfhjg",
+      "skills": [
+        "C#",
+        "Python",
+        "JavaScript"
+      ],
+      "interest": "Web Development",
+      "language": [
+        "Tamil",
+        "English"
+      ],
+      "resume": "C:\\fakepath\\links.txt"
+    },
+    {
+      "id": "93ae",
+      "firstname": "",
+      "lastname": "",
+      "mobilenumber": "",
+      "alternativenumber": "",
+      "dateofbirth": "",
+      "email": "",
+      "gender": "",
+      "github": "",
+      "collegename": "",
+      "linkedin": "",
+      "degree": "",
+      "course": "",
+      "cgpa": "",
+      "address": "",
+      "skills": [],
+      "interest": "",
+      "language": [],
+      "resume": ""
+    },
+    {
+      "id": "2841",
+      "firstname": "Manoj",
+      "lastname": "Prabhakaran",
+      "mobilenumber": "5767864",
+      "alternativenumber": "35465",
+      "dateofbirth": "2025-02-06",
+      "email": "manojprabhakaran524@gmail.com",
+      "gender": "Male",
+      "github": "its_manoj2003",
+      "collegename": "P.S.R Engineering College",
+      "linkedin": "Manoj_2003",
+      "degree": "B.E",
+      "course": "Computer Science and Engineering",
+      "cgpa": "45",
+      "address": "kjguijyg",
+      "skills": [
+        "JavaScript",
+        "C",
+        "Java"
+      ],
+      "interest": "Web Development",
+      "language": [
+        "English",
+        "Tamil"
+      ],
+      "resume": "C:\\fakepath\\links.txt"
+    },
+    {
+      "id": "d4ac",
+      "firstname": "Manoj",
+      "lastname": "Prabhakaran",
+      "mobilenumber": "3576584",
+      "alternativenumber": "3354654",
+      "dateofbirth": "2025-02-13",
+      "email": "manojprabhakaran524@gmail.com",
+      "gender": "Male",
+      "github": "its_manoj2003",
+      "collegename": "P.S.R Engineering College",
+      "linkedin": "Manoj_2003",
+      "degree": "B.E",
+      "course": "Computer Science and Engineering",
+      "cgpa": "6",
+      "address": "jgfuht",
+      "skills": "JavaScript",
+      "interest": "Web Development",
+      "language": "English",
+      "resume": null,
+      "image": {}
+    },
+    {
+      "id": "b5db",
+      "firstname": "",
+      "lastname": "",
+      "mobilenumber": "",
+      "alternativenumber": "",
+      "dateofbirth": "",
+      "email": "",
+      "gender": "",
+      "github": "",
+      "collegename": "",
+      "linkedin": "",
+      "degree": "B.Sc",
+      "course": "Mechanical Engineering",
+      "cgpa": "",
+      "address": "",
+      "skills": [],
+      "interest": "",
+      "language": [],
+      "resume": ""
+    }
+  ]
+}

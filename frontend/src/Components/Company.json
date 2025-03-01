@@ -1,0 +1,31 @@
+{
+  "company": [
+    {
+      "id": "af90",
+      "name": "Accenture",
+      "desc": "Accenture is a global professional services company that helps businesses, governments, and organizations with technology, strategy, and operations. Accenture is a Fortune Global 500 company. ",
+      "date": "2025-02-19",
+      "mode": "Online",
+      "venue": "P.S.R Engineering College",
+      "companyimage": ""
+    },
+    {
+      "id": "7714",
+      "name": "Tata Consultancy Service",
+      "desc": "TCS stands for Tata Consultancy Services, an Indian multinational IT company that offers consulting, business solutions, and IT services. TCS is part of the Tata Group and is headquartered in Mumbai. ",
+      "date": "2025-02-14",
+      "mode": "offline",
+      "venue": "Ramco Institute of Technology",
+      "companyimage": ""
+    },
+    {
+      "id": "5c70",
+      "name": "HP",
+      "desc": "Hewlett-Packard (HP) is a multinational technology company that sells hardware, software, and services. HP was founded in 1939 by Stanford University graduates William Hewlett and David Packard. The company is headquartered in Palo Alto, California. ",
+      "date": "2025-02-20",
+      "mode": "Offline",
+      "venue": "National Engineering College",
+      "companyimage": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "studentsdetail": [
+    {
+      "id": "db2e",
+      "firstname": "Manoj",
+      "lastname": "Prabhakaran",
+      "mobilenumber": "6374358764",
+      "alternativenumber": "6383221198",
+      "dateofbirth": "2025-02-12",
+      "email": "manojprabhakaran524@gmail.com",
+      "gender": "Male",
+      "github": "https://github.com/itsmanoj2003",
+      "collegename": "P.S.R Engineering College",
+      "linkedin": "https://www.linkedin.com/in/manoj-prabhakaran-584539258/",
+      "degree": "B.E",
+      "course": "Computer Science and Engineering",
+      "cgpa": "8.57",
+      "address": "Kovilpatti",
+      "skills": [
+        "C#",
+        "Python",
+        "JavaScript"
+      ],
+      "interest": "Web Development",
+      "language": [
+        "Tamil",
+        "English"
+      ],
+      "resume": "C:\\fakepath\\links.txt"
+    },
+    {
+      "id": "916c",
+      "firstname": "Ashok",
+      "lastname": "Kumar",
+      "mobilenumber": "6374358764",
+      "alternativenumber": "6383221198",
+      "dateofbirth": "2025-02-13",
+      "email": "ashok@gmail.com",
+      "gender": "Male",
+      "github": "its_manoj2003",
+      "collegename": "P.S.R Engineering College",
+      "linkedin": "manoj",
+      "degree": "B.E",
+      "course": "Computer Science and Engineering",
+      "cgpa": "8.59",
+      "address": "Rajapalayam",
+      "skills": [
+        "Java",
+        "Ruby"
+      ],
+      "interest": "Web Development",
+      "language": [
+        "Tamil",
+        "English"
+      ],
+      "resume": "C:\\fakepath\\notes for tourify.txt"
+    }
+  ]
+}

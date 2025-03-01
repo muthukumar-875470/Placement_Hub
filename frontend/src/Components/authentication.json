@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "Manoj",
+      "email": "manojprabhakaran524@gmail.com",
+      "password": "Manoj@2003",
+      "id": "81d6"
+    },
+    {
+      "id": "28ed",
+      "name": "Manoj",
+      "email": "softstortechnology@gmail.com",
+      "password": "Hello"
+    },
+    {
+      "id": "7b86",
+      "name": "Maha",
+      "email": "maha@gmail.com",
+      "password": "Maha@1234"
+    },
+    {
+      "id": "3c3d",
+      "name": "Shanmuga",
+      "email": "Shanmuga@gmail.com",
+      "password": "Shanmuga"
+    },
+    {
+      "id": "175b",
+      "name": "Ashok",
+      "email": "Ashok@gmail.com",
+      "password": "Ashok1234"
+    },
+    {
+      "id": "f83b",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    }
+  ]
+}
